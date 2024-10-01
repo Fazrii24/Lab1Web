@@ -14,3 +14,4 @@
         <img src="dewa.jpeg" width = "200" title="Foto DEWA UNITED">
     </body>
 </html>
+![dewa](https://github.com/user-attachments/assets/138ebf0f-8491-491c-86ac-9e0ef5d04ffd)
